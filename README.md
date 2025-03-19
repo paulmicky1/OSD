@@ -88,3 +88,4 @@ The architecture is MVC, Model-View-Controller. You must not change that.
 Please keep the separation of functionality between the two routers.
 
 This should probably be done in groups of two or three. Some research is expected. Take a couple of weeks to do it. And don’t forget that questions are welcome.
+Done in group work
